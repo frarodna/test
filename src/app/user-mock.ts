@@ -12,6 +12,7 @@ export const Users: UserModel[] = [
   { id: 18, isSecret: true,  name: 'Dr IQ' },
   { id: 19, isSecret: true,  name: 'Magma' },
   { id: 20, isSecret: true,  name: 'Tornado' },
-  { id: 21, isSecret: true,  name: 'Twister' }
+  { id: 21, isSecret: true,  name: 'Twister' },
+  { id: 22, isSecret: true,  name: 'Sea' }
 ];
 
